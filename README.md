@@ -34,16 +34,6 @@ If you want to contribute to the development of the QR code generator applicatio
 3. Test the application thoroughly to ensure it functions as expected.
 4. Submit a pull request detailing your changes for review.
 
-## License
-
-This QR code generator application is released under the [MIT License](https://opensource.org/licenses/MIT). You are free to modify and distribute the application as per the terms of the license.
-
-## Contact
-
-If you have any questions, suggestions, or issues regarding the QR code generator application, please contact the development team at:
-
-- Email: qr.generator@example.com
-- Website: www.qrgeneratorapp.com
 
 Feel free to reach out to us with any feedback or inquiries.
 
